@@ -1,0 +1,14 @@
+README.md
+setup.cfg
+setup.py
+wdc
+webdav3/__init__.py
+webdav3/client.py
+webdav3/connection.py
+webdav3/exceptions.py
+webdav3/urn.py
+webdavclient3.egg-info/PKG-INFO
+webdavclient3.egg-info/SOURCES.txt
+webdavclient3.egg-info/dependency_links.txt
+webdavclient3.egg-info/requires.txt
+webdavclient3.egg-info/top_level.txt
